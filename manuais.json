@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "author": "Maverick PDF",
+    "title": "Titulo Maverick PDF",
+    "description": " Kit com duas chaves Sendo uma reserva Importado da summit racing Marca standart parts Garantia do vendedor: 3 meses ",
+    "urlVideo": "",
+    "urlImages": [
+      "https://instagram.fbsb30-1.fna.fbcdn.net/v/t51.2885-19/458186426_1246632376330929_7581262622335988751_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fbsb30-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=c0Mgvy43I-8Q7kNvgHTsZVR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBHhnYz9pNS5KWYAGsYg4t7S9b2MhVSYxwGCBvZaY2kxg&oe=66E25089&_nc_sid=8b3546",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_999527-MLB70635133491_072023-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_700930-MLB71372450502_082023-F.webp"
+    ],
+    "link": "https://google.com",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " PEGAR DESCONTO "
+    }
+  },
+  {
+    "id": "2",
+    "author": "Maverick Divergente",
+    "title": "Titulo Manual",
+    "description": " Kit com duas chaves Sendo uma reserva Importado da summit racing Marca standart parts Garantia do vendedor: 3 meses ",
+    "urlVideo": "",
+    "urlImages": [
+      "https://instagram.fbsb30-1.fna.fbcdn.net/v/t51.2885-19/458186426_1246632376330929_7581262622335988751_n.jpg?stp=dst-jpg_s320x320&_nc_ht=instagram.fbsb30-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=c0Mgvy43I-8Q7kNvgHTsZVR&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBHhnYz9pNS5KWYAGsYg4t7S9b2MhVSYxwGCBvZaY2kxg&oe=66E25089&_nc_sid=8b3546",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_999527-MLB70635133491_072023-F.webp",
+      "https://http2.mlstatic.com/D_NQ_NP_2X_700930-MLB71372450502_082023-F.webp"
+    ],
+    "link": "https://google.com",
+    "type": "react",
+    "enable": true,
+    "config": {
+      "buttonLabel": " PEGAR DESCONTO "
+    }
+  }
+]

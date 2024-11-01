@@ -1,0 +1,101 @@
+[
+  {
+    "id": "1",
+    "title": "Anunciar",
+    "icon": "addfile",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "AdvertisementsList"
+  },
+  {
+    "id": "2",
+    "title": "Anuncios",
+    "icon": "profile",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "AdvertisementsList"
+  },
+  {
+    "id": "3",
+    "title": "Plaqueta",
+    "icon": "idcard",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "Platelet"
+  },
+  {
+    "id": "4",
+    "title": "Parceiros",
+    "icon": "tagso",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "PartinerList"
+  },
+  {
+    "id": "5",
+    "title": "Eventos",
+    "icon": "calendar",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "EventList"
+  },
+  {
+    "id": "6",
+    "title": "Tutoriais e Dicas",
+    "icon": "tool",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "TutorialList"
+  },
+  {
+    "id": "7",
+    "title": "Manuais",
+    "icon": "file-markdown",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "react",
+    "link": "ManualList"
+  },
+  {
+    "id": "8",
+    "title": "Comunidade",
+    "icon": "message1",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "url",
+    "link": "https://whatsapp.com/channel/0029VaEcDJC9Bb5upgEhhg43"
+  },
+  {
+    "id": "9",
+    "title": "Compartilhar",
+    "icon": "sharealt",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "share-app",
+    "link": ""
+  },
+  {
+    "id": "10",
+    "title": "Contato",
+    "icon": "mail",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "share-app",
+    "link": ""
+  },
+  {
+    "id": "11",
+    "title": "Sobre",
+    "icon": "exclamationcircleo",
+    "iconColor": "#303F9F",
+    "enable": true,
+    "type": "share-app",
+    "link": ""
+  }
+]
