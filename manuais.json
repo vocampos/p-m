@@ -1,114 +1,112 @@
 [
-    {
-        "id": "1",
-        "author": "@maverickdivergente",
-        "title": "Manual de serviços do Ford Maverick",
-        "description": "Aprenda mais sobre o Ford Maverick com esse incrível manual.",
-        "urlVideo": "",
-        "urlImages": [
-            "https://http2.mlstatic.com/D_NQ_NP_693579-MLB43130635343_082020-O.webp"
-        ],
-        "link": "https://drive.google.com/file/d/1ZcEvsPwVLp_nm62-SZE6-4FlZZ1xrKQy/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-    {
-        "id": "2",
-        "author": "@maverickdivergente",
-        "title": "Adesivo macaco Ford Maverick",
-        "description": "Dúvidas como posicionar o macaco no Maverick? Siga as instruções desse adesivo.",
-        "urlVideo": "",
-        "urlImages": [
-            "https://http2.mlstatic.com/D_NQ_NP_188911-MLB20669494663_042016-O.webp"
-        ],
-        "link": "https://drive.google.com/file/d/1U-7FqeyQsz16_mKYHoTSIN2CWS8YDKwm/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-    {
-        "id": "3",
-        "author": "@maverickdivergente",
-        "title": "Manual do Motor V8 302",
-        "description": "Descubra mais sobre o fantástico Motor Ford V8 302",
-        "urlVideo": "",
-        "urlImages": [
-            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCDwrVbJr5p5ej_HrPuYI3W4BwiBJ9IfxyA&s"
-        ],
-        "link": "https://drive.google.com/file/d/1W5sDjexcGyFq7wIvx1Xow6eO7Na9qAON/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-    {
-        "id": "4",
-        "author": "@maverickdivergente",
-        "title": "Catálogo de Peças do Ford Maverick",
-        "description": "Catálogo completo do Ford Maverick, aprenda mais sobre as peças utilizadas na montagem do clássico dos anos 70.",
-        "urlVideo": "",
-        "urlImages": [
-            "https://acdn.mitiendanube.com/stores/001/756/137/products/screenshot_221-58e50d72266eb8384c16745042367922-1024-1024.webp"
-        ],
-        "link": "https://drive.google.com/file/d/1qEbiNL2T8HB8q8sA_qadrO1MOcCly06l/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-     {
-        "id": "5",
-        "author": "@maverickdivergente",
-        "title": "Motor do Ford Maverick 4CC",
-        "description": "Descubra mais sobre o motor OHC Georgia 4CC",
-        "urlVideo": "",
-        "urlImages": [
-            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFBw5vHExZo_mnooa3dulfvZe92TEMnzityrRyyOfR_12S7ACY_lbvPYA5Nlr9BTB3YQGsjgMLjqG_BMpTgyxxF0JuGqU2uoQy9RW9GixUAx4j_eFPbKtoPrfDGiqtjit_lUWwPOCOMoM/s1600/O+Globo+06.06.75.jpg"
-        ],
-        "link": "https://drive.google.com/file/d/11kC9trIM8298iYW_GJjsjTThy9oXGnba/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-     {
-        "id": "6",
-        "author": "@maverickdivergente",
-        "title": "Manual câmbio Tremec T5",
-        "description": "Tire todas suas dúvidas sobre o T5 com esse manual.",
-        "urlVideo": "",
-        "urlImages": [
-            "https://http2.mlstatic.com/D_NQ_NP_810340-MLB48948755118_012022-O.webp"
-        ],
-        "link": "https://drive.google.com/file/d/1j7Zeg2Dg9uNukDjFJAkf3kb1Wwy3vpRv/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
-    },
-    {
-        "id": "7",
-        "author": "@maverickdivergente",
-        "title": "Molde Porta Luvas Ford Maverick",
-        "description": "Dica @maverickdivergente: Faça o molde do porta luvas usando esse molde.",
-        "urlVideo": "",
-        "urlImages": [
-            "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
-        ],
-        "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-        "type": "download",
-        "enable": true,
-        "config": {
-            "buttonLabel": " FAZER DOWLOAD "
-        }
+  {
+    "id": "1",
+    "author": "@maverickdivergente",
+    "title": "Manual de serviços do Ford Maverick",
+    "description": "Aprenda mais sobre o Ford Maverick com esse incrível manual.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://http2.mlstatic.com/D_NQ_NP_693579-MLB43130635343_082020-O.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1ZcEvsPwVLp_nm62-SZE6-4FlZZ1xrKQy/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
     }
+  },
+  {
+    "id": "2",
+    "author": "@maverickdivergente",
+    "title": "Adesivo macaco Ford Maverick",
+    "description": "Dúvidas como posicionar o macaco no Maverick? Siga as instruções desse adesivo.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://http2.mlstatic.com/D_NQ_NP_188911-MLB20669494663_042016-O.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1U-7FqeyQsz16_mKYHoTSIN2CWS8YDKwm/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "3",
+    "author": "@maverickdivergente",
+    "title": "Manual do Motor V8 302",
+    "description": "Descubra mais sobre o fantástico Motor Ford V8 302",
+    "urlVideo": "",
+    "urlImages": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMCDwrVbJr5p5ej_HrPuYI3W4BwiBJ9IfxyA&s"
+    ],
+    "link": "https://drive.google.com/file/d/1W5sDjexcGyFq7wIvx1Xow6eO7Na9qAON/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "4",
+    "author": "@maverickdivergente",
+    "title": "Catálogo de Peças do Ford Maverick",
+    "description": "Catálogo completo do Ford Maverick, aprenda mais sobre as peças utilizadas na montagem do clássico dos anos 70.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://acdn.mitiendanube.com/stores/001/756/137/products/screenshot_221-58e50d72266eb8384c16745042367922-1024-1024.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1qEbiNL2T8HB8q8sA_qadrO1MOcCly06l/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "5",
+    "author": "@maverickdivergente",
+    "title": "Motor do Ford Maverick 4CC",
+    "description": "Descubra mais sobre o motor OHC Georgia 4CC",
+    "urlVideo": "",
+    "urlImages": [
+      "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFBw5vHExZo_mnooa3dulfvZe92TEMnzityrRyyOfR_12S7ACY_lbvPYA5Nlr9BTB3YQGsjgMLjqG_BMpTgyxxF0JuGqU2uoQy9RW9GixUAx4j_eFPbKtoPrfDGiqtjit_lUWwPOCOMoM/s1600/O+Globo+06.06.75.jpg"
+    ],
+    "link": "https://drive.google.com/file/d/11kC9trIM8298iYW_GJjsjTThy9oXGnba/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "6",
+    "author": "@maverickdivergente",
+    "title": "Manual câmbio Tremec T5",
+    "description": "Tire todas suas dúvidas sobre o T5 com esse manual.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://http2.mlstatic.com/D_NQ_NP_810340-MLB48948755118_012022-O.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1j7Zeg2Dg9uNukDjFJAkf3kb1Wwy3vpRv/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "7",
+    "author": "@maverickdivergente",
+    "title": "Molde Porta Luvas Ford Maverick",
+    "description": "Dica @maverickdivergente: Faça o molde do porta luvas usando esse molde.",
+    "urlVideo": "",
+    "urlImages": ["https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"],
+    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  }
 ]
