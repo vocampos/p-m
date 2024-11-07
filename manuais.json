@@ -47,6 +47,22 @@
       "buttonLabel": " FAZER DOWNLOAD "
     }
   },
+   {
+    "id": "5",
+    "author": "@maverickdivergente",
+    "title": "Manual do Motor do Ford Maverick 4CC",
+    "description": "Descubra mais sobre o motor OHC Georgia 4CC",
+    "urlVideo": "",
+    "urlImages": [
+      "https://quatrorodas.abril.com.br/wp-content/uploads/2017/04/qr_04_05_55.jpg"
+    ],
+    "link": "https://drive.google.com/file/d/11kC9trIM8298iYW_GJjsjTThy9oXGnba/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
   {
     "id": "4",
     "author": "@maverickdivergente",
@@ -59,22 +75,6 @@
     "link": "https://drive.google.com/file/d/1qEbiNL2T8HB8q8sA_qadrO1MOcCly06l/view?usp=drive_link",
     "type": "download",
     "enable": true,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
-  {
-    "id": "5",
-    "author": "@maverickdivergente",
-    "title": "Motor do Ford Maverick 4CC",
-    "description": "Descubra mais sobre o motor OHC Georgia 4CC",
-    "urlVideo": "",
-    "urlImages": [
-      "https://quatrorodas.abril.com.br/wp-content/uploads/2017/04/qr_04_05_55.jpg"
-    ],
-    "link": "https://drive.google.com/file/d/11kC9trIM8298iYW_GJjsjTThy9oXGnba/view?usp=drive_link",
-    "type": "download",
-    "enable": false,
     "config": {
       "buttonLabel": " FAZER DOWNLOAD "
     }
