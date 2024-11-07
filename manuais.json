@@ -47,7 +47,7 @@
       "buttonLabel": " FAZER DOWNLOAD "
     }
   },
-   {
+  {
     "id": "5",
     "author": "@maverickdivergente",
     "title": "Manual do Motor do Ford Maverick 4CC",
@@ -97,6 +97,38 @@
   },
   {
     "id": "7",
+    "author": "@maverickdivergente",
+    "title": "Molde Porta Luvas Ford Maverick",
+    "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
+    ],
+    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "8",
+    "author": "@maverickdivergente",
+    "title": "Molde Porta Luvas Ford Maverick",
+    "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
+    ],
+    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "9",
     "author": "@maverickdivergente",
     "title": "Molde Porta Luvas Ford Maverick",
     "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
