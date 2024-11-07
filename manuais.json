@@ -99,54 +99,14 @@
     "id": "7",
     "author": "@maverickdivergente",
     "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente: Faça o molde do porta luvas usando esse molde.",
+    "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
     "urlVideo": "",
-    "urlImages": ["https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"],
+    "urlImages": [
+      "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
+    ],
     "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
     "type": "download",
     "enable": true,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
-  {
-    "id": "71",
-    "author": "@maverickdivergente",
-    "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente: Faça o molde do porta luvas usando esse molde.",
-    "urlVideo": "",
-    "urlImages": ["https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"],
-    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-    "type": "download",
-    "enable": false,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
-  {
-    "id": "72",
-    "author": "@maverickdivergente",
-    "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente: Faça o molde do porta luvas usando esse molde.",
-    "urlVideo": "",
-    "urlImages": ["https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"],
-    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-    "type": "download",
-    "enable": false,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
-  {
-    "id": "73",
-    "author": "@maverickdivergente",
-    "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente: Faça o molde do porta luvas usando esse molde.",
-    "urlVideo": "",
-    "urlImages": ["https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"],
-    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-    "type": "download",
-    "enable": false,
     "config": {
       "buttonLabel": " FAZER DOWNLOAD "
     }
