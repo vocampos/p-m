@@ -62,5 +62,21 @@
         "config": {
             "buttonLabel": " FAZER DOWLOAD "
         }
+    },
+     {
+        "id": "5",
+        "author": "@maverickdivergente",
+        "title": "Motor do Ford Maverick 4CC",
+        "description": "Descubra mais sobre o motor OHC Georgia 4CC",
+        "urlVideo": "",
+        "urlImages": [
+            "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFBw5vHExZo_mnooa3dulfvZe92TEMnzityrRyyOfR_12S7ACY_lbvPYA5Nlr9BTB3YQGsjgMLjqG_BMpTgyxxF0JuGqU2uoQy9RW9GixUAx4j_eFPbKtoPrfDGiqtjit_lUWwPOCOMoM/s1600/O+Globo+06.06.75.jpg"
+        ],
+        "link": "https://drive.google.com/file/d/11kC9trIM8298iYW_GJjsjTThy9oXGnba/view?usp=drive_link",
+        "type": "download",
+        "enable": true,
+        "config": {
+            "buttonLabel": " FAZER DOWLOAD "
+        }
     }
 ]
