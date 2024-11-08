@@ -18,12 +18,12 @@
   },
   {
     "id": 1,
-    "urlImage": "https://raw.githubusercontent.com/vocampos/p-m/develop/imgs/banners/banner.png",
+    "urlImage": "https://raw.githubusercontent.com/vocampos/p-m/develop/imgs/banners/banner.png?v=2",
     "type": "share-app"
   },
     {
     "id": 2,
-    "urlImage": "https://raw.githubusercontent.com/vocampos/p-m/develop/imgs/banners/banner-2.png",
+    "urlImage": "https://raw.githubusercontent.com/vocampos/p-m/develop/imgs/banners/banner-2.png?v=2",
     "link": "https://www.instagram.com/maverickdivergente",
     "type": "link"
   }
