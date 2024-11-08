@@ -158,5 +158,37 @@
     "config": {
       "buttonLabel": " FAZER DOWNLOAD "
     }
+  },
+    {
+    "id": "11",
+    "author": "@maverickdivergente",
+    "title": "Suspensão dianteira do Ford Maverick",
+    "description": "Veja os componentes da suspensão dianteira do Maverick",
+    "urlVideo": "",
+    "urlImages": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-Gar5Kqz-Hyqbwd-jVIVPji4PxWTBEOywQ&s"
+    ],
+    "link": "https://drive.google.com/file/d/1ewptt7kU91sD9dSFg6cqfAEPnrDCqGxG/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+      {
+    "id": "12",
+    "author": "@maverickdivergente",
+    "title": "Suspensão traseira do Ford Maverick",
+    "description": "Veja os componentes da suspensão traseira do Maverick",
+    "urlVideo": "",
+    "urlImages": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-Gar5Kqz-Hyqbwd-jVIVPji4PxWTBEOywQ&s"
+    ],
+    "link": "https://drive.google.com/file/d/1lmxD8bJlYRYaVa5p-GLr-foriWnGh-mE/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
   }
 ]
