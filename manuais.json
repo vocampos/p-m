@@ -175,7 +175,7 @@
       "buttonLabel": " FAZER DOWNLOAD "
     }
   },
-      {
+  {
     "id": "12",
     "author": "@maverickdivergente",
     "title": "Suspensão traseira do Ford Maverick",
@@ -185,6 +185,22 @@
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-Gar5Kqz-Hyqbwd-jVIVPji4PxWTBEOywQ&s"
     ],
     "link": "https://drive.google.com/file/d/1lmxD8bJlYRYaVa5p-GLr-foriWnGh-mE/view?usp=drive_link",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+    {
+    "id": "13",
+    "author": "@maverickdivergente",
+    "title": "Réplica Relógio console Maverick",
+    "description": "Tutorial simplificado de como fazer uma réplica usando relógio de 52mm.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_962406-MLB26018407766_092017-F.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1ZKoPhIVlTe8yddp4xQYi9eqYiJWLVMNd/view?usp=sharing",
     "type": "download",
     "enable": true,
     "config": {
