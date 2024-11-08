@@ -142,5 +142,37 @@
     "config": {
       "buttonLabel": " FAZER DOWNLOAD "
     }
+  },
+   {
+    "id": "10",
+    "author": "@maverickdivergente",
+    "title": "Tabela de Cores do Ford Maverick - Parte 1",
+    "description": "Parte 1/2 da tabela de cores.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://sitetray.s3.amazonaws.com/wp-content/uploads/sites/2/2022/02/post_thumbnail-ddb1c6be78dd1bcf2adf0920ee5b4201-e1687024007933.jpeg"
+    ],
+    "link": "https://drive.google.com/file/d/14X4kJBYrIADfPYEm3wBQePG9kpoqAHfq/view?usp=sharing",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+    {
+    "id": "10",
+    "author": "@maverickdivergente",
+    "title": "Tabela de Cores do Ford Maverick - Parte 2",
+    "description": "Parte 2/2 da tabela de cores.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://sitetray.s3.amazonaws.com/wp-content/uploads/sites/2/2022/02/post_thumbnail-ddb1c6be78dd1bcf2adf0920ee5b4201-e1687024007933.jpeg"
+    ],
+    "link": "https://drive.google.com/file/d/1jIA8XiYS-aB_ngUV7jW4euQI4_23x9a0/view?usp=sharing",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
   }
 ]
