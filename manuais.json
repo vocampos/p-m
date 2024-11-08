@@ -111,40 +111,8 @@
       "buttonLabel": " FAZER DOWNLOAD "
     }
   },
-  {
-    "id": "8",
-    "author": "@maverickdivergente",
-    "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
-    "urlVideo": "",
-    "urlImages": [
-      "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
-    ],
-    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-    "type": "download",
-    "enable": true,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
-  {
-    "id": "9",
-    "author": "@maverickdivergente",
-    "title": "Molde Porta Luvas Ford Maverick",
-    "description": "Dica maverickdivergente - Faça seu porta luvas usando esse molde.",
-    "urlVideo": "",
-    "urlImages": [
-      "https://www.instagram.com/p/DBjEp3pJ63h/media?size=m"
-    ],
-    "link": "https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link",
-    "type": "download",
-    "enable": true,
-    "config": {
-      "buttonLabel": " FAZER DOWNLOAD "
-    }
-  },
    {
-    "id": "10",
+    "id": "8",
     "author": "@maverickdivergente",
     "title": "Tabela de Cores do Ford Maverick - Parte 1",
     "description": "Parte 1/2 da tabela de cores.",
@@ -160,7 +128,7 @@
     }
   },
     {
-    "id": "10",
+    "id": "9",
     "author": "@maverickdivergente",
     "title": "Tabela de Cores do Ford Maverick - Parte 2",
     "description": "Parte 2/2 da tabela de cores.",
@@ -169,6 +137,22 @@
       "https://sitetray.s3.amazonaws.com/wp-content/uploads/sites/2/2022/02/post_thumbnail-ddb1c6be78dd1bcf2adf0920ee5b4201-e1687024007933.jpeg"
     ],
     "link": "https://drive.google.com/file/d/1jIA8XiYS-aB_ngUV7jW4euQI4_23x9a0/view?usp=sharing",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " FAZER DOWNLOAD "
+    }
+  },
+  {
+    "id": "10",
+    "author": "@maverickdivergente",
+    "title": "Alinhamento do Ford Maverick",
+    "description": "Na dúvida como alinhar o Ford Maverick? Veja a dica @maverickdivergente",
+    "urlVideo": "",
+    "urlImages": [
+      "https://thumbs.dreamstime.com/b/vetor-da-linha-de-alinhamento-roda-%C3%ADcone-eps-arquivo-f%C3%A1cil-editar-280874725.jpg"
+    ],
+    "link": "https://drive.google.com/file/d/1fNIoxzuuhw2BS3wJflvhGPofIIXOaC1f/view?usp=sharing",
     "type": "download",
     "enable": true,
     "config": {
