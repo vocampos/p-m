@@ -310,5 +310,18 @@
     "config": {
       "buttonLabel": " ACESSAR VÍDEO "
     }
+  },
+      {
+    "id": "25",
+    "title": "Marcador de combustível do Maverick",
+    "author": "Maverick Divergente",
+    "description": "Procurando upgrade do marcador de combustível do Maverick!Veja a solução!Siga @maverickdivergente maior banco de informações sobre adaptações em Ford Maverick do Instagram.",
+    "urlVideo": "",
+    "urlImages": ["https://www.instagram.com/p/C63gcebAzQq/media?size=m"],
+    "link": "https://www.instagram.com/reel/C63gcebAzQq/",
+    "enable": true,
+    "config": {
+      "buttonLabel": " ACESSAR VÍDEO "
+    }
   }
 ]
