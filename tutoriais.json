@@ -297,5 +297,18 @@
     "config": {
       "buttonLabel": " ACESSAR VÍDEO "
     }
+  },
+  {
+    "id": "24",
+    "title": "Borrachas porta-malas Maverick",
+    "author": "Maverick Divergente",
+    "description": "Por que a Borracha do porta-malas padrão original, mesmo nova fica escapando?Veja a solução!Siga @maverickdivergente maior banco de informações sobre adaptações em Ford Maverick do Instagram.",
+    "urlVideo": "",
+    "urlImages": ["https://www.instagram.com/p/C9xDg6BJ1hh/media?size=m"],
+    "link": "https://www.instagram.com/reel/C9xDg6BJ1hh/",
+    "enable": true,
+    "config": {
+      "buttonLabel": " ACESSAR VÍDEO "
+    }
   }
 ]
