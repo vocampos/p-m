@@ -323,5 +323,21 @@
     "config": {
       "buttonLabel": " ACESSAR VÍDEO "
     }
+  },
+      {
+    "id": "26",
+    "title": "Réplica Relógio console Maverick",
+    "author": "@maverickdivergente",      
+    "description": "Tutorial simplificado de como fazer uma réplica para o console do Maverick usando um relógio de 52mm.Siga @maverickdivergente maior banco de informações sobre adaptações em Ford Maverick do Instagram.Procurando relógio 52mm para fazer esse tutorial?https://drive.google.com/file/d/1fm0kMG08WOFJE9TuvxwpEINR2yGESrOP/view?usp=drive_link&link_label_app=Clique_aqui_e_aproveite_a_promoção_que_temos_para_você.",
+    "urlVideo": "",
+    "urlImages": [
+      "https://http2.mlstatic.com/D_NQ_NP_2X_962406-MLB26018407766_092017-F.webp"
+    ],
+    "link": "https://drive.google.com/file/d/1ZKoPhIVlTe8yddp4xQYi9eqYiJWLVMNd/view?usp=sharing",
+    "type": "download",
+    "enable": true,
+    "config": {
+      "buttonLabel": " VER TUTORIAL "
+    }
   }
 ]
