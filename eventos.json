@@ -16,5 +16,21 @@
     "config": {
       "buttonLabel": " MAIS INFORMAÇÕES "
     }
+  },
+    {
+    "id": "2",
+    "title": "Antigos do Val",
+    "description": "Tá chegando… Sábado agora a partir das 10hs 🚀🚀\n 2º Encontro Antigos do Val!\nO maior encontro de carros antigos da região!Traga sua família e venha aproveitar as várias atrações durante todo o dia 😉",
+    "urlVideo": "",
+    "urlImages": [
+      "https://www.instagram.com/p/C_QHJsuOCCm/media?size=l"
+    ],
+    "link": "https://www.instagram.com/antigosdoval/",
+    "enable": true,
+    "data": "",
+    "address": "",
+    "config": {
+      "buttonLabel": " MAIS INFORMAÇÕES "
+    }
   }
 ]
